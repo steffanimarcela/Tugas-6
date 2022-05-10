@@ -1,0 +1,17 @@
+
+
+<html>
+
+<head>
+
+<title>untitled</title>
+
+</head>
+
+<body>
+
+<p align="center">© STMIK EL RAHMA<br>2005</p>
+
+</body>
+
+</html>
